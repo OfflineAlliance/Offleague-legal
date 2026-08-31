@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.offleague.app",
+      "sha256_cert_fingerprints": [
+        "F5:DE:AE:5F:D1:F7:69:64:EC:06:37:E8:53:AF:4A:87:99:BE:B1:4F:3B:93:2F:F5:68:EC:AF:2B:FD:6F:38:87"
+      ]
+    }
+  }
+]

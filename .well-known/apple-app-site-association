@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["57ZM8HX656.com.offleague.app"],
+        "components": [
+          { "/": "/join", "comment": "League-Einladung" }
+        ]
+      }
+    ]
+  }
+}
